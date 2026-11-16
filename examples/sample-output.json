@@ -1,0 +1,17 @@
+[
+  {
+    "index": 0,
+    "file_url": "https://api.apify.com/v2/key-value-stores/r0xL0AMK3gPagpcyD/records/result-001-image.png?signature=v2d3NlB6x1gKJDJILyft",
+    "file_key": "result-001-image.png",
+    "filename": "image.png",
+    "mime": "image/png",
+    "bytes": 5844,
+    "width": 600,
+    "height": 200,
+    "format": "png",
+    "blocked_requests": 0,
+    "truncated": false,
+    "credits": 3,
+    "ms": 2665
+  }
+]
